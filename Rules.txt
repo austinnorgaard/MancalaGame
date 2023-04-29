@@ -1,0 +1,14 @@
+
+How to play:	
+	The first player chooses a circle on their own side, picks up the stones in that space, and starting with the next space, drops one stone in each space going counterclockwise (including their Store) until all of the stones are played out. The other player now does the same using stones on their side and continuing to play counterclockwise.
+
+Note: if there are enough stones to reach the other player’s Store, skip that space and continue on your own.
+
+Note: if your last stone goes into your Store, you get to go again.
+
+Note: if your last stone goes into an empty space on your side, move that stone and any captured stones ( those directly across on your opponent’s side) to your Store.
+
+How to win: 
+	The game ends when either player has no more stones in their six circles and the remaining stones go to the other player’s Store.
+	
+	The winner is the player with the most stones in their Store.
